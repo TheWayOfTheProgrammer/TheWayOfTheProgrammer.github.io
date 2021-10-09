@@ -30,7 +30,7 @@ twitter_username: folkengine
 github_username:  folkengine
 
 # Build settings
-theme: jekyll-theme-architect
+theme: minima
 plugins:
   - jekyll-feed
 
